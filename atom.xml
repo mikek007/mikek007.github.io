@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Ma Junchi的主页</title>
+  
+  
+  <link href="http://mikek007.github.io/atom.xml" rel="self"/>
+  
+  <link href="http://mikek007.github.io/"/>
+  <updated>2022-01-17T08:37:59.447Z</updated>
+  <id>http://mikek007.github.io/</id>
+  
+  <author>
+    <name>mark</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>hello world</title>
+    <link href="http://mikek007.github.io/2022/01/17/hello-world/"/>
+    <id>http://mikek007.github.io/2022/01/17/hello-world/</id>
+    <published>2022-01-17T08:34:27.000Z</published>
+    <updated>2022-01-17T08:37:59.447Z</updated>
+    
+    <content type="html"><![CDATA[<p>hello world！<br>测试一下自己的个人博客，以后在这里分享生物信息算法原理及软件设计方面的心得！！！</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;hello world！&lt;br&gt;测试一下自己的个人博客，以后在这里分享生物信息算法原理及软件设计方面的心得！！！&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    <category term="Testing" scheme="http://mikek007.github.io/categories/Testing/"/>
+    
+    
+    <category term="testing" scheme="http://mikek007.github.io/tags/testing/"/>
+    
+  </entry>
+  
+</feed>
