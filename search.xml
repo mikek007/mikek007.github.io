@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>hello world</title>
+    <url>/2022/01/17/hello-world/</url>
+    <content><![CDATA[<p>hello world！<br>测试一下自己的个人博客，以后在这里分享生物信息算法原理及软件设计方面的心得！！！</p>
+]]></content>
+      <categories>
+        <category>Testing</category>
+      </categories>
+      <tags>
+        <tag>testing</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>NCRF</title>
     <url>/2022/02/10/NCRF/</url>
     <content><![CDATA[<h1 id="Noise-cancelling-repeat-finder-学习笔记"><a href="#Noise-cancelling-repeat-finder-学习笔记" class="headerlink" title="Noise-cancelling repeat finder 学习笔记"></a><a href="https://academic.oup.com/bioinformatics/article/35/22/4809/5530597?login=true">Noise-cancelling repeat finder</a> 学习笔记</h1><h2 id="文章背景"><a href="#文章背景" class="headerlink" title="文章背景"></a>文章背景</h2><p>在人类基因组中，<strong>长的串联重复的序列</strong>(long tandem repeat) 扮演着极其重要的角色。例如：TTAGGG 这段序列的串联重复对于保护着丝粒有关，AATGG 这段序列与热休克反应有关联等等。但是，当前缺少捕获这种长的TR序列的有效技术。之前出现过TRF软件对能够串联重复序列进行搜索，之后会写一篇笔记记录学习。  </p>
@@ -37,18 +49,6 @@
       </categories>
       <tags>
         <tag>Aligner</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>hello world</title>
-    <url>/2022/01/17/hello-world/</url>
-    <content><![CDATA[<p>hello world！<br>测试一下自己的个人博客，以后在这里分享生物信息算法原理及软件设计方面的心得！！！</p>
-]]></content>
-      <categories>
-        <category>Testing</category>
-      </categories>
-      <tags>
-        <tag>testing</tag>
       </tags>
   </entry>
 </search>
